@@ -4,8 +4,8 @@
 Creator of **GL Risk Darkboard** (HTML + Python). I build lightweight, offline-friendly dashboards for accounting teams in proxy-restricted environments.
 
 ## Featured Projects
-- 🔥 **[QUANT-ACC-SAP](https://github.com/nguyenkyei/QUANT-ACC-SAP)** — tools & dashboards for GL/BS/PL analytics (mapping, risk scoring, JSON export).
-- 📊 **GL Darkboard** (private for now) — HTML dashboards (donut/line/heatmap) with JSON inputs, no backend required.
+- 🔥 **[QUANT-ACC-SAP](https://github.com/nguyenkyei/QUANT-ACC-SAP)** — tools & dashboards for GL Risk Matrix analytics (mapping, risk scoring,import excel.
+- 📊 **GL Risk Darkboard** (private for now) — HTML dashboards (donut/line/heatmap) with JSON inputs, no backend required.
 
 ## Tech
 Python · Django · Pandas · NumPy · SQLite/PostgreSQL · HTML/CSS/JS
