@@ -1,28 +1,27 @@
 # Hi, I'm Kyei 👋
 
-**Finance Engineer / Account Insight**  
-- Creator of **GL Risk Darkboard** (HTML + Python)  
-- Building accounting analytics: GL → PL → BS → Decision
+**Finance Engineer · Accounting Analytics (GL → PL → BS → Decision)**  
+Creator of **GL Risk Darkboard** (HTML + Python). I build lightweight, offline-friendly dashboards for accounting teams in proxy-restricted environments.
 
-### Tech
-Python • Pandas • Numpy • HTML/JS/CSS 
+## Featured Projects
+- 🔥 **[QUANT-ACC-SAP](https://github.com/nguyenkyei/QUANT-ACC-SAP)** — tools & dashboards for GL/BS/PL analytics (mapping, risk scoring, JSON export).
+- 📊 **GL Darkboard** (private for now) — HTML dashboards (donut/line/heatmap) with JSON inputs, no backend required.
 
-### Links
+## Tech
+Python · Django · Pandas · NumPy · SQLite/PostgreSQL · HTML/CSS/JS
 
-- ✉️ Email: nguyet1901ntt@email.com
-  
-### Featured Projects
-https://github.com/nguyenkyei/QUANT-ACC-SAP 
-**nguyenkyei/nguyenkyei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- Building **accounting insights** from **GL, BS, PL** data (risk scoring, trends, KPIs).  
+- Studying **CFA** and applying financial ratios to company dashboards.  
+- Moving ETL from **Excel → SQLite** for cleaner lineage and reproducible pipelines.
 
-Here are some ideas to get you started:
+## Collaboration
+- I’m looking to collaborate on **corporate finance analytics** and **ERP-lite dashboards**.  
+- Open to issues/PRs on data mapping, risk models, and visualization.
 
-- 🔭 I’m currently working on Account and Look insight Data for GL,BS,Pl
-- 🌱 I’m currently learning CFA
-- 👯 I’m looking to collaborate on corporate FDI
-- 🤔 I’m looking for help with darkboard
-- 💬 Ask me about why dont control data
-- 📫 How to reach me: Gmail or Facebook
-- 😄 Pronouns: K
-- ⚡ Fun fact: ichi go ichi e
--->
+## Contact
+- 📧 Email: [nguyet1901ntt@email.com](mailto:nguyet1901ntt@email.com)
+- 🧪 Sandbox repos: check my pins below.
+
+## Fun fact
+I once merged three separate GL/BS/PL HTML dashboards into a single tabbed page so it runs **offline** behind a strict proxy 😅
