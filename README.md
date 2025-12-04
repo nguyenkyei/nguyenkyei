@@ -7,14 +7,12 @@ Creator of **GL Risk Darkboard** (HTML + Python). I build lightweight, offline-f
 - 🔥 **[QUANT-ACC-SAP](https://github.com/nguyenkyei/QUANT-ACC-SAP)** — tools & dashboards for GL Risk Matrix analytics (mapping, risk scoring,import excel.
 - 📊 **GL Risk Darkboard** (private for now) — HTML dashboards (donut/line/heatmap) with JSON inputs, no backend required.
 
-## Tech
-Python · Django · Pandas · NumPy · SQLite/PostgreSQL · HTML/CSS/JS
+## Interested
+Python · Rust · Pandas · NumPy · SAP functional · HTML/CSS/JS 
 
 ## What I'm working on
 - Building **accounting insights** from **GL, BS, PL** data (risk scoring, trends, KPIs).  
-- Studying **CFA** and applying financial ratios to company dashboards.  
-- Moving ETL from **Excel → SQLite** for cleaner lineage and reproducible pipelines.
-
+- Studying CFA applying financial ratios to company dashboards. 
 ## Collaboration
 - I’m looking to collaborate on **corporate finance analytics** and **ERP-lite dashboards**.  
 - Open to issues/PRs on data mapping, risk models, and visualization.
