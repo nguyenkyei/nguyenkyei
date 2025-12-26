@@ -12,11 +12,9 @@ Python · Rust · Pandas · NumPy · SAP functional · HTML/CSS/JS
 
 ## What I'm working on
 - Building **accounting insights** from **GL, BS, PL** data (risk scoring, trends, KPIs).  
-- Studying CFA applying financial ratios to company dashboards. 
 ## Collaboration
 - I’m looking to collaborate on **corporate finance analytics** and **ERP-lite dashboards**.  
 - Open to issues/PRs on data mapping, risk models, and visualization.
-
 ## Contact
 - 📧 Email: [nguyet1901ntt@email.com](mailto:nguyet1901ntt@email.com)
 - 🧪 Sandbox repos: check my pins below.
