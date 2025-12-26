@@ -21,5 +21,4 @@ Python · Rust · Pandas · NumPy · SAP functional · HTML/CSS/JS
 - 📧 Email: [nguyet1901ntt@email.com](mailto:nguyet1901ntt@email.com)
 - 🧪 Sandbox repos: check my pins below.
 
-## Fun fact
-I once merged three separate GL/BS/PL HTML dashboards into a single tabbed page so it runs **offline** behind a strict proxy 😅
+
